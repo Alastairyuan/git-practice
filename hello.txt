@@ -1,3 +1,4 @@
 Hello Git
 Learning Git is fun
 Stage mistake
+Line from feature/test
